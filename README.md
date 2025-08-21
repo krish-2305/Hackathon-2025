@@ -35,8 +35,8 @@ You can find the project dependencies in `requirements.txt`.
 
 ---
 
-## Flowchart and Explanation
-Flowcharts and explanations can be found inside the respective problem folders within the `src/` directory.
+## Flowchart, Explanation and Inference Results
+Flowcharts, Explanations and Inference Results can be found inside the respective problem folders within the `src/` directory.
 
 ---
 
