@@ -20,9 +20,9 @@ You can find the project dependencies in `requirements.txt`.
   - 3 Objects: Car, Motorbike, Bus  
   - 800 images per class  
   - Dataset created from Kaggle dataset:  
-    [Google Drive Link](https://drive.google.com/drive/folders/1scwgh-0T87eDFlYCrMznLEMq5d9yYPS5?usp=drive_link)
+    [Google Drive Link](https://drive.google.com/drive/folders/1ORs-Mwww6FxtfDbn8fEGEMc4rTT5vwHf?usp=sharing)
   - For local inference :
-    [Google Drive Link](https://drive.google.com/drive/folders/1TaS8eDgktf3U43fBXRzQYlp2M0j0dp85?usp=drive_link)
+    [Google Drive Link](https://drive.google.com/drive/folders/1scwgh-0T87eDFlYCrMznLEMq5d9yYPS5?usp=sharing)
 
 
 ### Problem 1
@@ -31,7 +31,7 @@ You can find the project dependencies in `requirements.txt`.
 - **Image Augmentation & Annotation Dataset:**  
   [Roboflow](https://app.roboflow.com/robbery-dataset/dataset-staef/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)  
 - **Local Inference Dataset:**  
-  [Google Drive Link](https://drive.google.com/drive/folders/1AO-lY9GkxQn4HcKcfRClu5jSZrbY_Z3u?usp=drive_link)
+  [Google Drive Link](https://drive.google.com/drive/folders/1AO-lY9GkxQn4HcKcfRClu5jSZrbY_Z3u?usp=sharing)
 
 ---
 
