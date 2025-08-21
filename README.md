@@ -22,7 +22,7 @@ You can find the project dependencies in `requirements.txt`.
   - Dataset created from Kaggle dataset:  
     [Google Drive Link](https://drive.google.com/drive/folders/1ORs-Mwww6FxtfDbn8fEGEMc4rTT5vwHf?usp=sharing)
   - For local inference :
-    [Google Drive Link](https://drive.google.com/drive/folders/1scwgh-0T87eDFlYCrMznLEMq5d9yYPS5?usp=sharing)
+    [Google Drive Link](https://drive.google.com/drive/folders/1TaS8eDgktf3U43fBXRzQYlp2M0j0dp85?usp=sharing)
 
 
 ### Problem 1
