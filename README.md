@@ -21,7 +21,7 @@ You can find the project dependencies in `requirements.txt`.
   - 800 images per class  
   - Dataset created from Kaggle dataset:  
     [Google Drive Link](https://drive.google.com/drive/folders/1scwgh-0T87eDFlYCrMznLEMq5d9yYPS5?usp=drive_link)
-  -For local inference :
+  - For local inference :
     [Google Drive Link](https://drive.google.com/drive/folders/1TaS8eDgktf3U43fBXRzQYlp2M0j0dp85?usp=drive_link)
 
 
